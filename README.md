@@ -12,6 +12,8 @@ In CDP, click on your user name (bottom left), then click Profile, then click Se
 You can user your current password, but you might have to add a `!` to meet the requirements.
 For the envrionment, select `jfletcher-cdp-env`.
 
+on terminal: pip3 install -r requirements.txt 
+
 ### 1 Ingest Data
 Open `1_data_ingest.py` in a workbench: python3, 1 CPU, 2 GB.
 
